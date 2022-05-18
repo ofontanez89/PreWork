@@ -1,0 +1,131 @@
+	*{
+		box-sizing: border-box;
+		font-family: fantasy;
+		color: darkred;
+	}
+
+	html, body {
+		margin: 0;
+		padding: 0;
+		background-color: skyblue;
+	}
+
+	.nav ul {
+
+			margin: 0;
+	}
+
+	.nav li {
+		display: inline;
+
+	}
+
+	.nav a {
+		display: inline-block;
+		padding: .5em;
+		color: ghostwhite;
+		text-decoration: none;
+		text-align: center;
+
+
+	}
+
+	.nav a:hover {
+
+		background-color: plum;
+	}
+
+	nav {
+		text-align: center;
+		font-size: 1em ;
+		font-weight: lighter;
+		border-bottom: 1px solid purple;
+		position: relative;
+	}
+
+
+	.topHeader {
+			background-color: aqua;
+			background-size: cover;
+			padding-bottom: 30px;
+	}
+
+	.myName {
+		text-align: center;
+		margin: 0;
+		font-size: 5em;
+		font-family: cursive;
+
+	}
+
+	.sectionHeader {
+		text-align: center;
+		font-size: 3em;
+	}
+
+	.infoMe {
+		margin: 2em;
+	}
+
+	.container{
+
+		max-width: 900px; 
+		margin: 0 auto;
+		padding: 0 1em;
+
+	}
+
+	.myPic {
+		float:  left;
+		height: 220px;
+		width: 200px;
+		margin: 15px;
+		border-radius: 40%;
+	}
+
+	.apex2 {
+		color: mediumpurple;
+		font-size: 1em;
+	}
+
+	
+
+	.meTable {
+		margin: 25px 0;
+		font-size: 0.9em;
+		min-width: 400px;
+	}
+
+	.tHeader{
+		background-color:black ;
+		text-align: center;
+
+	}
+
+	.travelform {
+		text-align: center;
+		display: block;
+		border-width: 2px;
+		border-color: black;
+	}
+	 #Legend{
+		text-align: center;
+		
+	}
+	
+	h4 {font-size: 2em;}
+
+	form {
+		padding: 10px;
+		background-color: plum;
+		border-style: solid;
+		min-width: 400px;
+
+	}
+
+
+
+
+
+	}
+
